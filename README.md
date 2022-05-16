@@ -1,6 +1,6 @@
 # task2
 
-A new Flutter project.
+![Screenshot_1652717139](https://user-images.githubusercontent.com/73315485/168639125-84e97e50-aa69-4563-979d-e7c98281d8b4.png)
 
 ## Getting Started
 
